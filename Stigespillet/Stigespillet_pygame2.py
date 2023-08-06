@@ -1,7 +1,7 @@
 import pygame
 import random
 
-# Initialiser Pygame
+# Starter Pygame
 pygame.init()
 
 # Skjermstørrelse
